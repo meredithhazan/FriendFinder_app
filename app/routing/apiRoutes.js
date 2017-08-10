@@ -11,3 +11,9 @@ module.exports = function(app) {
 		console.log(friendData);
 	});
 }
+
+var bestMatch = {
+	name: "",
+	photoURL: "",
+	friendDifference: Infinity
+};
