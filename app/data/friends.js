@@ -30,7 +30,7 @@ var answerArray = [
 		1,
 		2
 		]
-	}/*,
+	},
 	{
 		name: "Farmer Ted",
 		photoURL: "https://wherethewildthingsare14.files.wordpress.com/2013/09/02-sixteencandles.jpg?w=580",
@@ -78,7 +78,7 @@ var answerArray = [
 		4,
 		3
 		]
-	}*/	
+	}
 ]
 
 module.exports = answerArray;
